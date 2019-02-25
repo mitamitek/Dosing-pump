@@ -1,5 +1,5 @@
 # DosingPumpController
-This project provides a amazing and simple dosing pump controller in Arduino
+This project provides a simple dosing pump controller in Arduino with refilling the evaporator.
 
 
 To use all the implementation, I recommend use the following hardware:
@@ -7,4 +7,5 @@ To use all the implementation, I recommend use the following hardware:
  - Keypad 4x3
  - IC2 RTC 3231
  - IC2 LCD 16x2
- - Relay module with 4 outputs
+ - 2x Trigger Switch Module FET MOS
+ - Relay module (only for safety level switch)
