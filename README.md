@@ -1,6 +1,6 @@
 # DosingPumpController
 This project provides a simple dosing pump controller in Arduino with refilling the evaporator.
-
+Created by modifying the original program dosing pump from Gabriel F. Campolina.
 
 To use all the implementation, I recommend use the following hardware:
  - Arduino UNO R3
